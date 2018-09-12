@@ -1,14 +1,15 @@
 import PropTypes from 'prop-types';
 import React, { PureComponent } from 'react';
-import { View, Text } from 'react-native';
+// import { View, Text } from 'react-native';
 
 export default class AmountInput extends PureComponent {
   render() {
     const { value, style, children } = this.props;
     return (
-      <View>
-        <Text>fffafafasbmnnnvb</Text>
-      </View>
+      <div>f</div>
+      // <View>
+      //   <Text>fffafafasbmnnnvb</Text>
+      // </View>
     );
   }
 }
