@@ -1,1 +1,1 @@
-export { default as AmountInput } from './components/amount-input';
+export { default as AmountInput } from './amount-input';
