@@ -6,10 +6,9 @@ export default class AmountInput extends PureComponent {
   render() {
     const { value, style, children } = this.props;
     return (
-      <div>f</div>
-      // <View>
-      //   <Text>fffafafasbmnnnvb</Text>
-      // </View>
+       <View>
+         <Text>fffafafasbmnnnvb</Text>
+       </View>
     );
   }
 }
